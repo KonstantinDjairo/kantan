@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from radical_dawg import RadicalDawg
 from dict_dawg import DictDawg
 
